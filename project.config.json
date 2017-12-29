@@ -1,5 +1,5 @@
 {
-  "description": "项目配置文件。",
+	"description": "项目配置文件。",
 	"client": "./client",
 	"svr": "./server",
 	"miniprogramRoot": "./client",
@@ -11,20 +11,20 @@
 		"postcss": true,
 		"minified": true
 	},
-	"compileType": "weapp",
+	"compileType": "miniprogram",
 	"libVersion": "1.6.0",
 	"appid": "wx1f7fca24b0b79df5",
-	"projectname": "%E5%BE%AE%E9%A3%8E%E5%9B%BE%E7%89%87%E7%BF%BB%E8%AF%91",
+	"projectname": "tpt%E5%9B%BE%E7%89%87%E7%BF%BB%E8%AF%91",
 	"condition": {
-		"weapp": {
-			"current": -1,
-			"list": []
-		},
 		"search": {
 			"current": -1,
 			"list": []
 		},
 		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
 			"current": -1,
 			"list": []
 		}
