@@ -1,4 +1,4 @@
-![加油搬砖](https://github.com/GtBreeze/GentleBreezeTranslate/blob/master/%E5%93%88%E5%93%88.jpg）
+![加油搬砖](https://github.com/GtBreeze/GentleBreezeTranslate/blob/master/%E5%93%88%E5%93%88.jpg)
 
 
 # Wafer2 快速开发 Demo - PHP
