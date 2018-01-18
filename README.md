@@ -1,3 +1,6 @@
+[加油搬砖](https://github.com/GtBreeze/GentleBreezeTranslate/blob/master/%E5%93%88%E5%93%88.jpg）
+
+
 # Wafer2 快速开发 Demo - PHP
 
 本仓库是最简版的 Wafer2 开发套件，建议配合腾讯云微信小程序开发者工具解决方案一起使用。适用于想要使用 Wafer SDK 开发的开发者，Demo 对 SDK 进行了详细的使用和介绍，降低开发者的学习成本。
